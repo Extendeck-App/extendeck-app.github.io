@@ -1,6 +1,6 @@
-# Side Deck – Privacy Policy
+# Extendeck – Privacy Policy
 
-Side Deck does not collect, store or share any personal data.
+Extendeck does not collect, store or share any personal data.
 
 Bluetooth is used exclusively to send MIDI messages to your computer. No data is sent to any server.
 
