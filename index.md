@@ -13,4 +13,8 @@ Extendeck turns your iPad into an additional control surface for your DJ softwar
 
 Questions, bugs or feature ideas: sidedeck@outlook.de
 
+
+## About
+
+Extendeck is not affiliated with, endorsed by or connected to any audio or DJ software or hardware company.
 [Privacy Policy](privacy)
